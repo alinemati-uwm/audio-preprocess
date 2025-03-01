@@ -3,7 +3,6 @@
 [![PyPI Version](https://img.shields.io/pypi/v/fish-audio-preprocess.svg)](https://pypi.python.org/pypi/fish-audio-preprocess)
 
 
-
 # Audio Processing Scripts
 
 This repository contains various scripts for **audio processing**. The main features include:
